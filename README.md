@@ -1,5 +1,5 @@
-# Outreach Assistant https://outreach-assistant-rpeem2wtm-laharis-projects-8fbd7e71.vercel.app/
-
+# Outreach Assistant 
+Link: https://outreach-assistant-rpeem2wtm-laharis-projects-8fbd7e71.vercel.app/
 Get the recruiter or hiring manager for a job posting and draft a personalised outreach message.
 
 - **Paste a job URL or description** → extract company, role, and any contact mentioned in the JD.
